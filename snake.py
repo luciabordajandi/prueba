@@ -22,7 +22,7 @@ win.border(0)
 win.nodelay(1) # -1
 
 # snake and food
-snake = [(4, 4), (4, 3), (4, 2)]
+snake = [(1, 4), (23838, 3), (4, 2)]
 food = (6, 6)
 
 win.addch(food[0], food[1], '#')
